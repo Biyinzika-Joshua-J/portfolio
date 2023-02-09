@@ -1,0 +1,13 @@
+.projects{
+    margin-top: 100px;
+}
+
+.projects-heading::after{
+    content: '';
+    display: block;
+    height: 4px;
+    width: 100px;
+    background-color: #FDC435;
+    margin: 0 auto;
+    margin-top: 10px;
+}
